@@ -12,12 +12,12 @@ In lecture 01, we have discussed:
 
 We have answered 3 questions from the telecom data:
 1. How many customers have churned?
-2. How many customer's have international plan?
-3. How many customer's have voicemail plan?
+2. How many customers have international plan?
+3. How many customers have voicemail plan?
 
 Lecture 02 objectives:
 Histogram, districution, ecdf using matplotlib and seaborn
 
-4. How many customer's have international plan and churned?
-5. How many customer's have voicemail plan and churned?
+4. How many customers have international plan as well as churned?
+5. How many customers have voicemail plan as well as churned?
 6.......
