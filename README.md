@@ -16,8 +16,9 @@ We have answered 3 questions from the telecom data:
 3. How many customers have voicemail plan?
 
 Lecture 02 objectives:
-Histogram, districution, ecdf using matplotlib and seaborn
+Histogram, distribution, ecdf using matplotlib and seaborn
 
 4. How many customers have international plan as well as churned?
 5. How many customers have voicemail plan as well as churned?
+
 6.......
