@@ -1,6 +1,20 @@
-# Data Visualization using Python for the Beginners
+# Exploratory Data Analysis of a telecom dataset for customer churn
 
-So far we have leanred 1. Pie chart and 2. bar plot
+Objective: 
+1. Pie chart and 
+2. bar plot
+3. Histogram
+4. kde (Kernel Density Estimation)
+5. ecdf (empirical cumulative distribution function)
+6. scatter plot
+7. Regression plot
+8. Pair plot
+9. Line plot
+10. box plot
+11. violin plot
+12. Heatmap
+
+Libraries: Numpy, Pandas, matplotlib, and seaborn
 
 In lecture 01, we have discussed:
 1. how to read a csv file
@@ -20,5 +34,10 @@ Histogram, distribution, ecdf using matplotlib and seaborn
 
 4. How many customers have international plan as well as churned?
 5. How many customers have voicemail plan as well as churned?
+6. How to find the distribution of a feature?
+7. How to change the color of a figure?
+8. How to plot multiple figures in a single image?
 
-6.......
+Lecture 03 objectives: scatter plot, Regression plot, Pair plot, Line plot
+Lecture 04 objectives: box plot, violin plot, Heatmap
+
