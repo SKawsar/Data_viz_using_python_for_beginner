@@ -39,5 +39,11 @@ Histogram, distribution, ecdf using matplotlib and seaborn
 8. How to plot multiple figures in a single image?
 
 Lecture 03 objectives: scatter plot, Regression plot, Pair plot, Line plot
-Lecture 04 objectives: box plot, violin plot, Heatmap
+9. Is there any correlation between the total number of calls of a customer and the total number of minutes?
+10. Is there any correlation between the total number of calls of a customer and the total bill?
+11. Is there any correlation between the total number of minutes of a customer has talked and the total bill?
+12. Why customers are churning?
 
+Lecture 04 objectives: box plot, violin plot, Heatmap
+13. How to find the statistical measures from the dataset?
+14. How to check the correlations between each feature within a single figure?
